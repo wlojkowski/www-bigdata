@@ -20,17 +20,22 @@
 1. Karol Daniluk, Daria Kotowicz.
 [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 
-1. Damian Kalinowski, Rafał Lewandowski.
-[Analiza wypowiedzi w czasie rzeczywistym bazująca na wybranych metodach eksploracji tekstu](https://github.com/lafreak/mgr).
-
 1. Szymon Domurat.
 [Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
+
+1. Piotr Jaszczyszyn.
+[Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
+
+1. Damian Kalinowski, Rafał Lewandowski.
+[Analiza wypowiedzi w czasie rzeczywistym bazująca na wybranych metodach eksploracji tekstu](https://github.com/lafreak/mgr).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
 [Składowe nowoczesnych portali społecznościowych na przykładzie internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
 
-1. Jaszczyszyn Piotr.
-[Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
+1. Jakub Puchalski, Sebastian Piekarek.
+[System zarządzania, rozpoznawania treści i zapisu paragonów.](https://github.com/RPuchacz/Seminarium.git).
+
+
 
 1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
 
