@@ -34,7 +34,8 @@
 1. Jakub Puchalski, Sebastian Piekarek.
 [System zarządzania, rozpoznawania treści i zapisu paragonów.](https://github.com/RPuchacz/Seminarium.git).
 
-  * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html); [repo](https://github.com/delneg/noteshrinker-django).
+    * [Tesseract Open Source OCR Engine](https://github.com/tesseract-ocr/tesseract).
+    * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html); link do [repozytorium](https://github.com/delneg/noteshrinker-django).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
 [Składowe nowoczesnych portali społecznościowych na przykładzie internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
