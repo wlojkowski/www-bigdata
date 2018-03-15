@@ -27,7 +27,7 @@
 [Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
 
 1. Damian Kalinowski, Rafał Lewandowski.
-[Analiza wypowiedzi w czasie rzeczywistym bazująca na wybranych metodach eksploracji tekstu](https://github.com/lafreak/mgr).
+[Aplikacja analizująca mowę jako narzędzie do poprawy jakości wypowiedzi](https://github.com/lafreak/mgr).
 
 1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
 
