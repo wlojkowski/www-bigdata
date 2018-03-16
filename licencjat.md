@@ -27,6 +27,9 @@
 1. Rafał Kulasiewicz, Maciej Marzec, Ewelina Mazur.
 [Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome).
 
+1. Jacek Bańkowski.
+[Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat).
+
 
 ## Referaty, semestr letni 2017/18
 
