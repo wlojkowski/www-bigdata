@@ -17,6 +17,8 @@ Microservice Architecture](https://martinfowler.com/articles/microservice-testin
 
 1. Maciej Marchwiński, [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
 
+1. Kamil Dobrzyński,
+[Aplikacja desktopowa do śledzenia czasu pracy](https://github.com/kamdobrz/mgr).
 
 ## Referaty, semestr letni 2017/18
 
