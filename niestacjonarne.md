@@ -27,3 +27,4 @@ Microservice Architecture](https://martinfowler.com/articles/microservice-testin
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
 | 18.03.2018 | Wojciech Dunia | [Czyszczenie danych z użyciem Trifacta Wrangler i OpenRefine.](https://github.com/wdunia/magisterka/blob/master/referaty/czyszczenie-danych/referat-czyszczenie-danych.adoc) |
+| 25.03.2018 | Kamil Konderak  | [Red Book - Podstawowe informacje o rozproszonym przetwarzaniu danych.](https://github.com/kamilkonderak/praca-magisterska/README.md)
