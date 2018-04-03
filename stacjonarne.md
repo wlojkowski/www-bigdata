@@ -29,6 +29,8 @@
 1. Damian Kalinowski, Rafał Lewandowski.
 [Aplikacja analizująca mowę jako narzędzie do poprawy jakości wypowiedzi](https://github.com/lafreak/mgr).
 
+    * [Tidy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf).
+
 1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
 
 1. Jakub Puchalski, Sebastian Piekarek.
