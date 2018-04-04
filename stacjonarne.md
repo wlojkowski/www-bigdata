@@ -21,7 +21,7 @@
 [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 
 1. Szymon Domurat.
-[Anonimizacja i deduplikacja danych jako techniki orchony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
+[Anonimizacja i deduplikacja danych jako techniki ochrony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
 1. Piotr Jaszczyszyn.
 [Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
@@ -47,3 +47,4 @@
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
+| 12.04.2018 | Szymon Domurat  | [Ustawa RODO, nowe prawo o ochronie danych osobowych. Deduplikacja w MongoDB.](https://github.com/sdomurat/mgr/tree/master/referaty/12.04) |
