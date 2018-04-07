@@ -17,7 +17,7 @@ interactive article about testing strategies in microservice architecture,
 
 5\. Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego.
 
-1. Programming Blockchain Applications, wyd. Manning Publiction (ksiązka ukaże się pewnie w 2019).<br>
+1. Programming Blockchain Applications, wyd. Manning Publications (ksiązka ukaże się pewnie w 2019).<br>
 Explains how blockchain technology works and presents examples built using existing and emerging
 frameworks such as Bitcoin, Ethereum, Corda, and Hyperledger.
 This will demonstrate different styles, patterns, and big picture ideas.
