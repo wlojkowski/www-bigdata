@@ -24,7 +24,7 @@
 [Anonimizacja i deduplikacja danych jako techniki ochrony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
 1. Piotr Jaszczyszyn.
-[Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr).
+[Aplikacja do przetwarzania i wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr).
 
 1. Damian Kalinowski, Rafał Lewandowski.
 [Aplikacja analizująca mowę jako narzędzie do poprawy jakości wypowiedzi](https://github.com/lafreak/mgr).
