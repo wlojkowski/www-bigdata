@@ -9,7 +9,8 @@
 4\. Testowanie aplikacji operatej o architekturę mikroserwisów.
 
 1. [Testing Strategies in a
-Microservice Architecture](https://martinfowler.com/articles/microservice-testing) – inteactive article about testing strategies in microservice architecture,
+Microservice Architecture](https://martinfowler.com/articles/microservice-testing) –
+interactive article about testing strategies in microservice architecture,
 1. [Microservices Resource Guide](https://martinfowler.com/microservices),
 1. [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html),
 1. [Microservice Testing Practices in Public Sector Software Projects](https://aaltodoc.aalto.fi/bitstream/handle/123456789/26673/master_Huttunen_Joel_2017.pdf?sequence=1&isAllowed=y) - Master Thesis.
