@@ -1,17 +1,19 @@
 ## Tematy prac magisterskich
 
-1. Wojciech Dunia,
+1. Wojciech Dunia.
 [System klasyfikacji i obiegu informacji w firmie](https://github.com/wdunia/magisterka).
 
-1. Piotr Góra,
+1. Piotr Góra.
 [Metody zabezpieczania aplikacji webowych](https://github.com/gorapiotr/mgr).
 
-1. Kamil Konderak, [Przetwarzanie informacji w rozproszonych bazach danych](https://github.com/kamilkonderak/praca-magisterska).
+1. Kamil Konderak.
+[Przetwarzanie informacji w rozproszonych bazach danych](https://github.com/kamilkonderak/praca-magisterska).
 
-1. Weronika Majewska,
+1. Weronika Majewska.
 [Testowanie aplikacji operatej o architekturę mikroserwisów](https://github.com/wermajew/praca-magisterska).
 
-1. Maciej Marchwiński, Kamil Dobrzyński, [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
+1. Maciej Marchwiński, Kamil Dobrzyński.
+[Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
 
 
 ## Referaty, semestr letni 2017/18

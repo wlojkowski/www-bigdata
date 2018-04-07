@@ -32,10 +32,10 @@
 1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
 
 1. Jakub Puchalski, Sebastian Piekarek.
-[System zarządzania, rozpoznawania treści i zapisu paragonów.](https://github.com/RPuchacz/Seminarium.git).
+[System zarządzania, rozpoznawania treści i zapisu paragonów](https://github.com/RPuchacz/Seminarium.git).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
-[Modyfikacja składowych społecznościowych na potrzeby internetowego serwisu muzycznego.](https://github.com/wlojkowski/Praca_Magisterska).
+[Modyfikacja składowych społecznościowych na potrzeby internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
 
 
 ## Referaty, semestr letni 2017/18
