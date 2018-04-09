@@ -1,7 +1,7 @@
 ## Tematy prac magisterskich
 
 1. Wojciech Dunia.
-[System klasyfikacji i obiegu informacji w firmie](https://github.com/wdunia/magisterka).
+[Predykcja wyników w bieganiu z użyciem uczenia maszynowego](https://github.com/wdunia/magisterka).
 
 1. Piotr Góra.
 [Metody zabezpieczania aplikacji webowych](https://github.com/gorapiotr/mgr).
