@@ -35,7 +35,7 @@
 [System zarządzania, rozpoznawania treści i zapisu paragonów](https://github.com/RPuchacz/Seminarium.git).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
-[Modyfikacja składowych społecznościowych na potrzeby internetowego serwisu muzycznego](https://github.com/wlojkowski/Praca_Magisterska).
+[Aplikacja MusicWeb jako przykład serwisu społecznościowego oraz analiza porównawcza dostępnych rozwiązań](https://github.com/wlojkowski/Praca_Magisterska).
 
 
 ## Referaty, semestr letni 2017/18
