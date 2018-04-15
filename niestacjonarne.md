@@ -3,7 +3,7 @@
 Do dnia **27.05.2018** należy:
 
 1. Uzgodnić tytuł pracy.
-1. Uzgodnić lista rzeczy, które zostaną przygotowane na potrzeby pracy.
+1. Uzgodnić listę rzeczy, które zostaną przygotowane na potrzeby pracy.
 1. Przygotować i uzgodnić spis treści.
 1. Przygotować i uzgodnić bibliografię.
 1. W repozytorium przygotować brudnopis całej pracy: streszczenie,
