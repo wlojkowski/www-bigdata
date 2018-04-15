@@ -15,6 +15,8 @@
 1. Maciej Marchwiński, Kamil Dobrzyński.
 [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
 
+1. Aneta Jędrzejewska.
+[Wtyczka do programu Blender](https://github.com/anejedrz/magisterka).
 
 ## Referaty, semestr letni 2017/18
 
