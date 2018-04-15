@@ -1,6 +1,6 @@
 ## Zaliczenie 1. semestru
 
-Do dnia 27.05.2018 należy:
+Do dnia **27.05.2018** należy:
 
 1. Uzgodnić tytuł pracy.
 1. Uzgodnić lista rzeczy, które zostaną przygotowane na potrzeby pracy.
