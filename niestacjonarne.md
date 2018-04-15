@@ -29,7 +29,7 @@ Do dnia **27.05.2018** należy:
 [Testowanie aplikacji operatej o architekturę mikroserwisów](https://github.com/wermajew/praca-magisterska).
 
 1. Kamil Dobrzyński.
-[Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](/).
+[Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/kamdobrz/mgr).
 
 1. Maciej Marchwiński.
 [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
