@@ -22,6 +22,9 @@ Do dnia **27.05.2018** należy:
 1. Aneta Jędrzejewska.
 [Wtyczka do programu Blender](https://github.com/anejedrz/magisterka).
 
+1. Jakub Krzemiński
+[Analiza przepływu danych w systemach opartych o architekturę REST.](https://github.com/krzemson/magisterka).
+
 1. Kamil Konderak.
 [Przetwarzanie informacji w rozproszonych bazach danych](https://github.com/kamilkonderak/praca-magisterska).
 
