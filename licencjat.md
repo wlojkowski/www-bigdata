@@ -30,6 +30,9 @@
 1. Jacek Bańkowski.
 [Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat).
 
+1. Victor Debone.
+[Distributed consensus with WebRTC](https://github.com/seminarium/my-project-debone).
+
 
 ## Referaty, semestr letni 2017/18
 
