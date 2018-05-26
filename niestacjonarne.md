@@ -13,6 +13,9 @@ Do dnia **27.05.2018** należy:
 
 ## Tematy prac magisterskich
 
+1. Kamil Dobrzyński.
+[Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/kamdobrz/mgr).
+
 1. Wojciech Dunia.
 [Predykcja wyników w bieganiu z użyciem uczenia maszynowego](https://github.com/wdunia/magisterka).
 
@@ -30,9 +33,6 @@ Do dnia **27.05.2018** należy:
 
 1. Weronika Majewska.
 [Testowanie aplikacji operatej o architekturę mikroserwisów](https://github.com/wermajew/praca-magisterska).
-
-1. Kamil Dobrzyński.
-[Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/kamdobrz/mgr).
 
 1. Maciej Marchwiński.
 [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
