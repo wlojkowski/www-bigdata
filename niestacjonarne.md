@@ -20,7 +20,7 @@ Do dnia **27.05.2018** należy:
 [Predykcja wyników w bieganiu z użyciem uczenia maszynowego](https://github.com/wdunia/magisterka).
 
 1. Piotr Góra.
-[Metody zabezpieczania aplikacji webowych](https://github.com/gorapiotr/mgr).
+[Hurtownie i analityczne przetwarzanie danych](https://github.com/gorapiotr/mgr).
 
 1. Aneta Jędrzejewska.
 [Wtyczka do programu Blender](https://github.com/anejedrz/magisterka).
