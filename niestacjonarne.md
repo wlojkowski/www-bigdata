@@ -40,7 +40,7 @@ Do dnia **27.05.2018** należy:
 
 ## Różne rzeczy
 
-[DAapp University](http://www.dappuniversity.com) – learn to build decentralized applications on the Ethereum blockchain.
+[DApp University](http://www.dappuniversity.com) – learn to build decentralized applications on the Ethereum blockchain.
 
 * [The Ultimate Ethereum Dapp Tutorial](http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) –
   How to Build a Full Stack Decentralized Application Step-By-Step.
