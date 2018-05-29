@@ -38,9 +38,11 @@ Do dnia **27.05.2018** należy:
 [Technologia Blockchain na potrzeby Uniwersytetu Gdańskiego](https://github.com/KaKaril/Praca-Magisterska-Marchwinski).
 
 
-## Referaty, semestr letni 2017/18
+## Różne rzeczy
 
-| kiedy?     | kto?            | tytuł |
-| :--------- | :-------------- | :---- |
-| 07.04.2018 | Wojciech Dunia | [Czyszczenie danych z użyciem Trifacta Wrangler i OpenRefine.](https://github.com/wdunia/magisterka/blob/master/referaty/czyszczenie-danych/referat-czyszczenie-danych.adoc) |
-| 07.04.2018 | Kamil Konderak  | [Red Book - Podstawowe informacje o rozproszonym przetwarzaniu danych.](https://github.com/kamilkonderak/praca-magisterska/README.md)
+[DAapp University](http://www.dappuniversity.com) – learn to build decentralized applications on the Ethereum blockchain.
+
+* [The Ultimate Ethereum Dapp Tutorial](http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) –
+  How to Build a Full Stack Decentralized Application Step-By-Step.
+
+
