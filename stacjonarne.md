@@ -35,7 +35,7 @@
 [System zarządzania, rozpoznawania treści i zapisu paragonów](https://github.com/RPuchacz/Seminarium.git).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
-[Aplikacja MusicWeb jako przykład serwisu społecznościowego oraz analiza porównawcza dostępnych rozwiązań](https://github.com/wlojkowski/Praca_Magisterska).
+[Analiza porównawcza sztucznej inteligencji w grach komputerowych](https://github.com/wlojkowski/Praca_Magisterska).
 
 
 ## Referaty, semestr letni 2017/18
